@@ -1,0 +1,1 @@
+git sets up the folder to be stored remotely as a repository, you need to do it in order to connect your repository to the git hub
