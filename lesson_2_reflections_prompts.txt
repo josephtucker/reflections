@@ -1,1 +1,3 @@
 git sets up the folder to be stored remotely as a repository, you need to do it in order to connect your repository to the git hub
+
+The working directory is where your work is done, the staging area is where you put files that are ready to be committed (ie: not still in flux or being worked on).  The value is logical separation between working space and items ready to be committed in logical block.
